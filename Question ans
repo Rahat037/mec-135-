@@ -1,0 +1,61 @@
+***Differentiate between kinetics and kinematics.
+
+
+
+Kinematics deals with the description of motion without considering the forces causing the motion. It involves the study of position, velocity, and acceleration of objects. In other words, kinematics is concerned with the "geometry of motion" and doesn't delve into the reasons why an object moves the way it does.
+
+On the other hand, kinetics is all about the forces and torques that cause motion. It delves into the concepts of mass, inertia, and the laws of motion (like Newton's laws) to explain why objects move the way they do. Kinetics is essentially the study of the dynamics of motion, taking into account the forces that drive or resist motion.
+
+In simpler terms, kinematics asks "What is happening?" while kinetics asks "Why is it happening?"
+
+
+
+***Discuss Lemi's theorem with a schematic diagram.
+
+Lami's Theorem states that “When three forces acting at a point are in equilibrium, then each force is proportional to the sine of the angle between the other two forces”. Referring to the above diagram, consider three forces, A, B, and C, acting on a particle or rigid body, making angles α, β and γ with each other.
+
+
+***What are the conditions of static equilibrium?
+
+
+Two conditions of equilibrium must be satisfied to ensure that an object remains in static equilibrium. Firstly, the net force acting upon the object must be zero. Secondly, the net torque acting upon the object must also be zero.
+
+
+***Differentiate the centre of Gravity and Centroid.
+
+The centre of gravity of any object is the point where gravity acts on the body. On the other hand, the centroid is referred to as the geometrical centre of a uniform density object. This means the object has its weight distributed equally across all body parts.
+
+***Describe the term Moment of Inertia.
+
+Moment of inertia is defined as the quantity expressed by the body resisting angular acceleration which is the sum of the product of the mass of every particle with its square of a distance from the axis of rotation. The moment of inertia is a scalar quantity.
+
+***State and prove the theorem of parallel axis.
+
+(use chatgpt)
+
+
+***Distinguish between perfect truss and imperfect truss.
+
+Perfect Truss:
+Structure is made of members just sufficient to keep it in equilibrium, when loaded without any change of shape
+N = 2j – 3 where ‘n’ is the number of members and ‘j’ no of joints
+It is efficient and optimized structure.
+
+Imperfect Truss:
+Structure is made of members more or lesser than the minimum numbers necessary to keep it in equilibrium, when loaded
+N ≠ 2j – 3
+N > 2j – 3 redundant
+N < 2j – 3 deficient
+Inefficient structure
+
+*** What are trusses?
+
+A truss is a framework that supports something, like a roof or a bridge. A steel beam that holds up a bridge is called a truss.
+
+***State the applications of trusses.
+Trusses find applications in a wide range of engineering and architectural structures due to their efficiency in supporting loads. Here are some common applications of trusses:
+ including bridges, roofs, and towers. airport terminals, aircraft hangers, sports stadia roofs, auditoriums and other leisure buildings
+
+***What are the assumptions of a perfect truss?
+The assumptions made in the analysis of truss-
+Truss are connected together by frictionless pins. The truss structure is loaded only at the joints.
